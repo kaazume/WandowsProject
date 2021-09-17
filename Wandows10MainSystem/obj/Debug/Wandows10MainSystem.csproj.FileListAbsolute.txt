@@ -1,0 +1,13 @@
+C:\Users\uruwj\source\repos\Wandows10MainSystem\bin\Debug\Wandows10MainSystem.exe.config
+C:\Users\uruwj\source\repos\Wandows10MainSystem\bin\Debug\Wandows10MainSystem.exe
+C:\Users\uruwj\source\repos\Wandows10MainSystem\bin\Debug\Wandows10MainSystem.pdb
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.AboutBox1.resources
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.BSOD.resources
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.Form1.resources
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.Properties.Resources.resources
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.csproj.GenerateResource.cache
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.csproj.CoreCompileInputs.cache
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.exe
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.pdb
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.csproj.AssemblyReference.cache
+C:\Users\uruwj\source\repos\Wandows10MainSystem\obj\Debug\Wandows10MainSystem.Form2.resources
